@@ -19,12 +19,6 @@ Here, we show examples of using the EfficeintPS, DeepLab, and Oneformer for the 
 - Requirement for Oneformer is from [here](https://github.com/SHI-Labs/OneFormer).
 - Download the Cityscape validation [here](https://mega.nz/folder/tS8QSaxL#5yhdfe9ogpKk18dRwX7WCw](https://www.cityscapes-dataset.com/downloads/)https://www.cityscapes-dataset.com/downloads/).
 
-## Datasets Generation and Downloading
-| Degradation Factor      | Implementation Details    | Download |
-|-------------|------------|----------|
-| Low light  | Apply the inverse of the DL-based curve estimation image enhancement method (EC-Zero-DCE) | [Link](?)|
-| Night light | Retrain the CyCleGAN network with the BDD100K dataset |[Link](?)|
-
 ## More coming soon upon!
 
 #### To-do List
