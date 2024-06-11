@@ -24,3 +24,20 @@ Here, we show examples of using the EfficeintPS, DeepLab, and Oneformer for the 
 |-------------|------------|----------|
 | Low light  | Apply the inverse of the DL-based curve estimation image enhancement method (EC-Zero-DCE) | [Link](?)|
 | Night light | Retrain the CyCleGAN network with the BDD100K dataset |[Link](?)|
+
+## More coming soon upon!
+
+#### To-do List
+- Share all the D-Cityscapes+ dataset with 19 noise factors  
+
+
+## Citation
+If you find this code helpful in your research or wish to refer to the baseline results, please use the following BibTeX entry.
+
+```BibTeX
+@article{wang2024benchmarking,
+  title={Benchmarking the Robustness of Panoptic Segmentation for Automated Driving},
+  author={Wang, Yiting and Zhao, Haonan and Gummadi, Daniel and Dianati, Mehrdad and Debattista, Kurt and Donzella, Valentina},
+  journal={arXiv preprint arXiv:2402.15469},
+  year={2024}
+}
