@@ -1,4 +1,4 @@
-# Benchmarking-the-Robustness-of-Panoptic-Segmentation-for-Automated-Driving
+# Benchmarking-the-Robustness-of-Panoptic-Segmentation-for-Automotive-Cameras
 
 This is the **PyTorch re-implementation** of our aiXiv paper: 
 Benchmarking the Robustness of Panoptic Segmentation for Automated Driving, [link](). 
