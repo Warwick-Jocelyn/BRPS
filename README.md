@@ -22,7 +22,9 @@ Here, we show examples of using the EfficeintPS, DeepLab, and Oneformer for the 
 ## More coming soon upon!
 
 #### To-do List
-- Share all the D-Cityscapes+ dataset with 19 noise factors  
+- Share all the D-Cityscapes+ dataset with 19 noise factors
+- Share the noise generation table and tools
+- Share the re-trained model on the new noisy data under adverse weather conditions
 
 
 ## Citation
