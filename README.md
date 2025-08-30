@@ -1,14 +1,14 @@
-# Benchmarking-the-Robustness-of-Panoptic-Segmentation-for-Automotive-Cameras
+# Robustness-of-Panoptic-Segmentation-for-Degraded-Automotive-Cameras-Data
 
-This is the **PyTorch re-implementation** of our aiXiv paper: 
-Benchmarking the Robustness of Panoptic Segmentation for Automated Driving, [link](). 
+This is the **PyTorch re-implementation** of our T-ASE accepted paper: 
+Robustness-of-Panoptic-Segmentation-for-Degraded-Automotive-Cameras-Data, [link](). 
 
 <img src="docs/D-Cityscapes+.png" alt="Illustration of D-Cityscapes+" width="700"/>
 ![Illustrating of the degradation image examples. ](doc/adverse_model.png)
 
-- **New robustness dataset**: **Degraded-Cityscapes+ (D-Cityscapes+)** (New model for snow and unfavourable light)
+- **New robustness dataset**: **Degraded-Cityscapes+ (D-Cityscapes+)** (Novel model for snow and unfavourable light)
 - **Unifying degradation pipeline**: unifying pipeline to assess the robustness of panoptic segmentation models for assisted and automated driving (AAD) systems, correlating it with image quality.
-- **Benchmarking experiments**: 3 state-of-the-art CNN- and transformer-based panoptic segmentation networks are used to compare their robustness.
+- **Benchmarking experiments**: 14 state-of-the-art CNN- and transformer-based panoptic segmentation networks are used to compare their robustness.
 
 ![Illustrating of the unifying degradation data generation pipeline. ](docs/pipeline.png)
 
