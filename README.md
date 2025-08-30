@@ -12,7 +12,7 @@ Robustness-of-Panoptic-Segmentation-for-Degraded-Automotive-Cameras-Data, [link]
 
 ![Illustrating of the unifying degradation data generation pipeline. ](docs/pipeline.png)
 
-## Timeline for the T-ASE paper submission and publication
+## Timeline for the T-ASE paper submission
 - First submission (14-Jan-2025) 
 - 🚢 Revise and Resubmit: 3 months (07-Apr-2025)
 - Resub: 2 months revision time (06-Jun-2025)
