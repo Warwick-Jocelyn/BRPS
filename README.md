@@ -12,6 +12,14 @@ Robustness-of-Panoptic-Segmentation-for-Degraded-Automotive-Cameras-Data, [link]
 
 ![Illustrating of the unifying degradation data generation pipeline. ](docs/pipeline.png)
 
+## Timeline for the T-ASE paper submission and publication
+- First submission (14-Jan-2025) 
+- 🚢 Revise and Resubmit: 3 months (07-Apr-2025)
+- Resub: 2 months revision time (06-Jun-2025)
+- 🥹 Conditionally Accept: (24-Jul-2025)
+- Resub: 1 month (21-Aug-2025)
+- 🎉 Accepted: 1 week (25-Aug-2025)
+
 ## Requirements
 Here, we show examples of using the EfficeintPS, DeepLab, and Oneformer for the Cityscape dataset. 
 - Requirement for EfficientPS is from [here](https://github.com/DeepSceneSeg/EfficientPS#system-requirements).
